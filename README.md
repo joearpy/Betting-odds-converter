@@ -8,10 +8,6 @@ You should add just one input to "Your odds" field, choose the "Odds Type" in th
 
 For example: you add UK odds, after the convert you give EU and USA odds on table below.
 
-## Clean code
-
-The clean code is important, I tried to follow the guidelines and the SOLID
-
 ## DB operations
 
 This tool save the logs and your converted odds to Database. I used PDO for the DB operations.
@@ -48,7 +44,13 @@ Server side validation
 
 ## Validation
 
-Back-and validation in a PHP Class
+- Server side validation in a PHP Class
+
+- Client side validation with Form Validator JS tool
+
+## Clean code
+
+The clean code is important, I tried to follow the guidelines and the SOLID
 
 ## Technology
 
