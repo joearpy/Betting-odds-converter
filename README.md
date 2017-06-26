@@ -24,7 +24,7 @@ And ready to use!
 
 In the class folder:
 
-- Converter.class.php, where the converting happening
+- Converter.class.php, where happen the converting
 
 - db.class.php, where the DB operations
 
@@ -32,13 +32,13 @@ In the class folder:
 
 - saveData.class.php, where the program save the converted data
 
-- validator.class.php, where the validation happening
+- validator.class.php, where happen the validation
 
 ## Security
 
 You just use the converter with AJAX, if you try use without AJAX. The program will write you: "Are you hacker?"
 
-PDO for binding parameters
+PDO binds the parameter -> SQL injection protection
 
 Server side validation
 
