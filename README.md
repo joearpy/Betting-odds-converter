@@ -2,6 +2,10 @@
 
 This is the converter, which convert the UK, EU and USA odds from one input.
 
+## Responsive
+
+It can use on phone, on tablet and on desktop as well.
+
 ## Easy to use
 
 You should add just one input to "Your odds" field, choose the "Odds Type" in the select field and the tool convert your odds to another two version.
