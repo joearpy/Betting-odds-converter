@@ -50,7 +50,7 @@ Server side validation
 
 ## Clean code
 
-The clean code is important, I tried to follow the guidelines and the SOLID
+The clean code is important, I tried to follow the guidelines and the SOLID. If somebody wants change something in the source code, he should search just one place. No repetition, less responsibility in one class. 
 
 ## Technology
 
