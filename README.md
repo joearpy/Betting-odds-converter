@@ -12,17 +12,17 @@ The clean code is important for me, I tried to follow the guidelines and the SOL
 
 ## PHP Classes
 
-In the class folder
+In the class folder:
 
-# Converter.class.php, where the converting happening
+- Converter.class.php, where the converting happening
 
-# db.class.php, where the DB operations
+- db.class.php, where the DB operations
 
-# log.class.php, where the save log to Database
+- log.class.php, where the save log to Database
 
-# saveData.class.php, where the program save the converted data
+- saveData.class.php, where the program save the converted data
 
-# validator.class.php, where the validation happening
+- validator.class.php, where the validation happening
 
 ## Security
 
