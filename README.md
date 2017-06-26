@@ -2,13 +2,27 @@
 
 This is the converter, which convert the UK, EU and USA odds from one input.
 
-Easy to use: you should add just one input to "Your odds" field, choose the "Odds Type" in the select field and the tool convert your odds to another two version.
+## Easy to use
+
+You should add just one input to "Your odds" field, choose the "Odds Type" in the select field and the tool convert your odds to another two version.
 
 For example: you add UK odds, after the convert you give EU and USA odds on table below.
 
+## Clean code
+
+The clean code is important, I tried to follow the guidelines and the SOLID
+
+## DB operations
+
 This tool save the logs and your converted odds to Database. I used PDO for the DB operations.
 
-The clean code is important for me, I tried to follow the guidelines and the SOLID
+## Install
+
+There is db.sql on the file root, import it.
+
+Set the PDO connection in db.class.php 10. row
+
+And ready to use!
 
 ## PHP Classes
 
