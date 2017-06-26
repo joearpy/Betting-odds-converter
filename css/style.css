@@ -1,0 +1,16 @@
+.modal-body .btn-default {
+    width: 100%; pointer-events: all; cursor: pointer;
+}
+.modal-header {
+    background-color: #222222;
+    color: #fff;
+}
+.close {
+    color: #fff;
+}
+.close:hover {
+    color: #fff;
+}
+.error-container, .form-group {
+    margin: 10px 0;
+}
