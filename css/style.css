@@ -1,15 +1,53 @@
 .modal-body .btn-default {
     width: 100%; pointer-events: all; cursor: pointer;
 }
+.modal-content {
+    background: transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    border: none;
+}
 .modal-header {
-    background-color: #222222;
+    background: transparent;
     color: #fff;
+    padding: 0;
+}
+.modal-header-row-1 {
+    min-height: 47px;
+    background: linear-gradient(135deg, transparent 400px, #222222 0px);
+}
+.modal-header-row-1 i {
+    font-size: 1.4em;
+}
+.modal-header-row-2 {
+    background-color: #222222;
+    height: 50px;
+}
+.modal-header-row-2 img {
+    left: 60px;
+    position: relative;
+    bottom: 15px;
+}
+.modal-body, .modal-footer {
+    background: #fff;
+}
+.modal-header .close {
+    margin-top: 13px;
+    margin-right: 13px;
 }
 .close {
     color: #fff;
+    text-shadow: none;
+    font-size: 1.5em;
+    opacity: 1.0;
+    font-weight: 100;
 }
 .close:hover {
     color: #fff;
+}
+.modal-title {
+    bottom: 36px;
+    position: relative;
 }
 .error-container, .form-group {
     margin: 10px 0;
